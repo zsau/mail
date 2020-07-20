@@ -2,11 +2,11 @@
 
 Extremely basic Clojure wrapper for `javax.mail`. Only supports uploading messages at the moment!
 
-## Artifact
+## Installation
 
 Leiningen dependency:
 ```clojure
-[zsau/mail "0.1.0"]
+[zsau/mail "0.1.1"]
 ```
 
 ## Usage
